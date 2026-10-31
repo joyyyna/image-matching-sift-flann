@@ -32,7 +32,7 @@ On these three views of a single object on a dark background, restricting SIFT t
 
 **On Kaggle:** https://www.kaggle.com/code/narimened/computer-vision-image-matching-sift-flann
 
-**Dataset on Kaggle** https://www.kaggle.com/datasets/narimened/dino-images
+Dataset on Kaggle https://www.kaggle.com/datasets/narimened/dino-images
 
 **Locally:**
 
