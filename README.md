@@ -1,6 +1,6 @@
 # Image Matching with LoG Edges, SIFT and FLANN
 
-Computer vision course project (USTO-MB, M1 AI & Applications, 2025/2026).
+Computer vision course project (USTO-MB, M1 AI and its Applications, 2025/2026).
 
 The goal is to match images of the same object seen from different viewpoints, using only **edges** as detection primitives, and to compare this with running SIFT on the full image.
 
