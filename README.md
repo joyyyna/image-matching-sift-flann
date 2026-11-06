@@ -46,3 +46,8 @@ The notebook reads the images from the Kaggle input folder when it exists, and f
 ## Data
 
 The images come from the [Middlebury multi-view datasets](https://vision.middlebury.edu/mview/data/). Please refer to that page for the terms of use of the original data.
+
+## Author
+
+- Riheb Talhi: Master's student in Artificial Intelligence and its Applications, USTO-MB.
+- Narimene Derkaoui: Master's student in Artificial Intelligence and its Applications, USTO-MB.
